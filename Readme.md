@@ -1,3 +1,12 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/DXCallbackPanel/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/DXCallbackPanel/Controllers/HomeController.vb))
+* [Northwind.cs](./CS/DXCallbackPanel/Models/Northwind.cs) (VB: [Northwind.vb](./VB/DXCallbackPanel/Models/Northwind.vb))
+* [_ViewStart.cshtml](./CS/DXCallbackPanel/Views/_ViewStart.cshtml)
+* [CallbackPanelPartial.cshtml](./CS/DXCallbackPanel/Views/Home/CallbackPanelPartial.cshtml)
+* [Index.cshtml](./CS/DXCallbackPanel/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # How to render CallbackPanel content to Response inside SetContent method via ViewContext
 
 
