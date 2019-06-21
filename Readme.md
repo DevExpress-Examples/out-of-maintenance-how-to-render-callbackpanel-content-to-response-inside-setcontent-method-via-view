@@ -8,6 +8,9 @@
 * [Index.cshtml](./CS/DXCallbackPanel/Views/Home/Index.cshtml)
 <!-- default file list end -->
 # How to render CallbackPanel content to Response inside SetContent method via ViewContext
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2994)**
+<!-- run online end -->
 
 
 <p>It is possible to write a required content to the Response directly inside the SetContent method via the ViewContext.Writer.</p><p><strong>See Also:<br />
