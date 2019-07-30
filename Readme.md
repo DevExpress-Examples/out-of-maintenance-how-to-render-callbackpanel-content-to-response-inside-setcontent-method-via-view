@@ -9,7 +9,7 @@
 <!-- default file list end -->
 # How to render CallbackPanel content to Response inside SetContent method via ViewContext
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e2994)**
+**[[Run Online]](https://codecentral.devexpress.com/e2994/)**
 <!-- run online end -->
 
 
